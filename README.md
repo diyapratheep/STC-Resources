@@ -10,10 +10,13 @@ Welcome to Diyapratheep STC Resources, a website designed specifically for STC s
 
 # 🛠 Installation & Usage
 Run Locally:
+
 Clone the repository:
 bash git clone https://github.com/yourusername/diyapratheep-stc-resources.git
+
 Navigate to the project folder:
 bash cd diyapratheep-stc-resources
+
 Open index.html in your browser to start exploring.
 
 # 📞 Contact
